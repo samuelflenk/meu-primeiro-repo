@@ -12,4 +12,4 @@ Abra o arquivo index.html em qualquer navegador.
 
 ## Autoria
 
-Elaborado por Samuel Felipe Lenkulkul
+Elaborado por Samuel Felipe Lenkulkul.
