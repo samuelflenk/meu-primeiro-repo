@@ -8,4 +8,8 @@ HTML.
 
 ## Como executar
 
-Abra o arquivo index.html em qualquer navegador
+Abra o arquivo index.html em qualquer navegador.
+
+## Autoria
+
+Elaborado por Samuel Felipe Lenkulkul
